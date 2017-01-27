@@ -36,7 +36,7 @@ Supports _all_ features of the Skype protocol thanks to careful reverse-engineer
 ## Compiling
 
 * Windows compilation is done using Visual Studio or the compiler of your choice.
-* Mac OS X and Linux compilation is done using the included shell scripts.
+* Mac OS X and Linux compilation is done using the included shell scripts: cd src/SkypeExport/_gccbuild/linux && ./build_linux.sh
 
 ## Quick Guide
 
